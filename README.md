@@ -8,7 +8,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ React ](https://reactjs.org)
-- [ TailwindCSS ](https://www.styled-components.com/)
+- [ Styled Components ](https://www.styled-components.com/)
 - [ TypeScript ](https://www.typescriptlang.org/)
 
 ##  🖼️ Imagens
